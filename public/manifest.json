@@ -1,0 +1,16 @@
+{
+  "name": "YM Notes",
+  "short_name": "YM Notes",
+  "description": "A Simple Aplicación For Notes",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#eee",
+  "background_color": "#eee"
+}
