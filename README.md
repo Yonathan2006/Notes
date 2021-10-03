@@ -12,9 +12,10 @@ npm degit ym-notes
 
 ## Usage
 ```bash
-npm run dev 
+npm run start
 ```
 or 
 ```bash
-yarn dev
+yarn start
 ```
+It will serve the public files in *localhost:5000*
